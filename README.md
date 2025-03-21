@@ -31,3 +31,17 @@ npm run build
 ```shell
 npm start
 ```
+
+
+## Demo
+
+- Link - https://chat-app-realtime-js.onrender.com
+
+-  #### User1   
+        Username - Disk
+        Password - P1234@8
+- #### User2    
+        Username - Dain
+        Password - Z123@SI
+
+
